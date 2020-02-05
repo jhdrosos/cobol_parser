@@ -1,2 +1,2 @@
 # cobol_parser
-Convert cobol acob to ocobol ucob
+Convert cobol acob to cobol ucob
